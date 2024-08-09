@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CircuitBerryAlpha2.props" />
+</Project>
